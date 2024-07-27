@@ -8,7 +8,7 @@ This repository houses a machine learning project focused on the early detection
 This project aims to provide a streamlined tool for healthcare professionals to predict sepsis cases quickly and effectively.
 
 ## Summary
-|     Jupyter Notebook                       |     Power BI Dashboard|     Published Article|    Deployed FastAPI|    Deployed Streamlit App on Hugging Face    
+|     Jupyter Notebook                       |    Published Article|    Deployed FastAPI|    Deployed Streamlit App on Hugging Face    
 | -------------                  | -------------    | -------------    |    -----------------    |    -----------------
 |[Notebook with code and full analysis](https://github.com/OngomaElias/SEPSIS-PREDICTION/blob/main/notebook/ML_Modeling.ipynbSepsis_ML_Prediction_Deployment_With_FastAPI.ipynb)|   [Published Article on Medium](https://medium.com/p/d95675149635/edit) |[Link to FastAPI](http://localhost/docs#/default/predict_patient_sepsis_status_support_vector_prediction_post) |[Link to Streamlit App](http://localhost:3030/)
 
