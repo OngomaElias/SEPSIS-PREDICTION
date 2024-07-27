@@ -127,9 +127,7 @@ The data used in this project consists of a diverse collection of sepsis cases o
 # Machine Learning Lifecycle
 I employed the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology in this project. 
 
-<p align="center">
-  <img src="screenshots/CRISP-DM.png" width="500">
-</p>
+
 
 Here are the steps I undertook:
 
@@ -187,21 +185,15 @@ During the EDA phase, a comprehensive investigation of the sepsis dataset was co
 
 i. **Univariate analysis:** I performed a thorough individual examination of each variable looking at aspects such as summary statistics (mean, median, standard deviation, and quartiles) using the .describe method to understand the central tendency and spread of the data.
 
-<p align="center">
-  <img src="screenshots/univariate.png" alt="Univariate" width="600">
-</p>
+
 
 ii. **Bivariate analysis:** Relationships between pairs of variables were explored to identify patterns and potential predictor variables for sepsis classification.
 
-<p align="center">
-  <img src="screenshots/bivariate.png" width="600">
-</p>
+
 
 iii. **Multivariate analysis:** Relationships among multiple variables were examined simultaneously, allowing for a deeper understanding of their interactions and impact on sepsis.
 
-<p align="center">
-  <img src=screenshots/multivariate.png alt="multivariate" width="600">
-</p>
+
 
 In addition to these exploratory analyses, I tested my hypothesis and answered key analytical questions.
 
@@ -220,15 +212,11 @@ In addition to these exploratory analyses, I tested my hypothesis and answered k
 - I split the train dataset into training (80%) and evaluation (20%) sets.
 - To properly train and evaluate the models, I took into consideration the imbalanced nature of the traget variables/ class in the training set. 
 
-<p align="center">
-  <img src=screenshots/imb_class.png alt="class_imbalance" width="500">
-</p>
+
 
 - I used random oversampling to balance the target class. Addressing this class imbalance is important to ensure that the machine learning model can make accurate predictions for both classes and is not biased towards the majority class.
 
-<p align="center">
-  <img src=screenshots/bal_class.png alt="balanced_class" width="500">
-</p>
+
 
 - I also scaled the training and evaluation sets to ensure they were within the same range.
 
@@ -252,9 +240,7 @@ vii. Support Vector Machine
 
 The model performance was as follows:
 
-<p align="center">
-  <img src=screenshots/f1_score_leaderboard.png alt="f1_score" width="500">
-</p>
+
 
 Based on the f1 score, the Gradient Boosting Classifier was the best performing model.
 
