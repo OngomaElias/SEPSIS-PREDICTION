@@ -14,7 +14,6 @@ This project aims to provide a streamlined tool for healthcare professionals to 
 
 ## FastAPI Interface
 After clicking on the link to the working FastAPI, click on "Try It Out", add the patient's medical details, and click on the **"EXECUTE"** button.
-
 ![App Screenshot](images/FastAPI_before_pred.png)
 
 ### Before Prediction
@@ -23,6 +22,7 @@ After clicking on the link to the working FastAPI, click on "Try It Out", add th
 
 ### After Prediction
 ![App Screenshot](images/pred_after_exec.png)
+
 
 ## Streamlit Web Application Interface
 After clicking on the link to the Deployed Streamlit App on Hugging Face, provide inputs of the patient's medical details, and click on the **"Predict Sepsis"** button.
