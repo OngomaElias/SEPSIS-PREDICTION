@@ -1,9 +1,7 @@
 # SEPSIS-PREDICTION
 This repository houses a machine learning project focused on the early detection and classification of sepsis, and integrating the model into a web application using FAST API.
 
-<p align="center">
-  <img src="/images/sepsis_image.jpg" width="800">
-</p>
+
 
 This project aims to provide a streamlined tool for healthcare professionals to predict sepsis cases quickly and effectively.
 
@@ -14,28 +12,13 @@ This project aims to provide a streamlined tool for healthcare professionals to 
 
 ## FastAPI Interface
 After clicking on the link to the working FastAPI, click on "Try It Out", add the patient's medical details, and click on the **"EXECUTE"** button.
-![App Screenshot](images/FastAPI_before_pred.png)
 
-### Before Prediction
 
-![App Screenshot](images/pred_before_execution.png)
-
-### After Prediction
-![App Screenshot](images/pred_after_exec.png)
 
 
 ## Streamlit Web Application Interface
 After clicking on the link to the Deployed Streamlit App on Hugging Face, provide inputs of the patient's medical details, and click on the **"Predict Sepsis"** button.
 
-### Before Prediction
-<p align="center">
-  <img src="images/Strealit_app_before_pred.png" alt="App Screenshot" width="600">
-</p>
-
-### After Prediction
-<p align="center">
-  <img src="images/streamlit_app_after_pred.png" alt="App Screenshot" width="600">
-</p>
 
 
 
