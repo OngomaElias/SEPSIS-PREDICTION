@@ -267,11 +267,7 @@ Following the CRISP-DM methodology, I systematically addressed the sepsis predic
 
 `Elias Ongoma`
 
-`Data Analyst/Data Scientist`
 
-Let's connect on LinkedIn:
-
-[![LinkedIn](https://www.linkedin.com/in/elias-ongoma/) 
 
 
 # Acknowledgments:
