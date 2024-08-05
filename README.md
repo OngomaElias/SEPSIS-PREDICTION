@@ -8,7 +8,7 @@ This project aims to provide a streamlined tool for healthcare professionals to 
 ## Summary
 |     Jupyter Notebook                       |     Power BI Dashboard|     Published Article|    Deployed FastAPI|    Deployed Streamlit App on Hugging Face    
 | -------------                  | -------------    | -------------    |    -----------------    |    -----------------
-|[Notebook with code and full analysis](https://github.com/OngomaElias/SEPSIS-PREDICTION/blob/main/notebook/ML_Modeling.ipynbSepsis_ML_Prediction_Deployment_With_FastAPI.ipynb)|  [Interactive Dashboard]( |  [Published Article on Medium](https://medium.com/p/d95675149635/edit) |[Link to FastAPI](http://localhost/docs#/default/predict_patient_sepsis_status_support_vector_prediction_post) |[Link to Streamlit App](http://localhost:3030/)
+|[Notebook with code and full analysis](https://github.com/OngomaElias/SEPSIS-PREDICTION/blob/main/notebook/ML_Modeling.ipynbSepsis_ML_Prediction_Deployment_With_FastAPI.ipynb)|  [Interactive Dashboard]( |  [Published Article on Medium](https://medium.com/@ongomaelias/deploying-machine-learning-with-ease-a-beginners-guide-to-fastapi-docker-and-huggingface-f286173e547c) |[Link to FastAPI](http://localhost/docs#/default/predict_patient_sepsis_status_support_vector_prediction_post) |[Link to Streamlit App](http://localhost:3030/)
 
 ## FastAPI Interface
 After clicking on the link to the working FastAPI, click on "Try It Out", add the patient's medical details, and click on the **"EXECUTE"** button.
